@@ -1,5 +1,5 @@
 
-readme_content = '''<div align="center">
+'''<div align="center">
 
 <!-- 3D Animated Waving Header with Cosmic Background -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:b347d9,100:ff6b9d&height=300&section=header&text=RAJ%20GIRI&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20Software%20Developer&descSize=18&descAlignY=55" />
@@ -13,7 +13,7 @@ readme_content = '''<div align="center">
 
 <!-- 3D Floating Avatar with Glow Rings -->
 <div align="center">
-  <img src="https://royalgiri.fun/assets/img/profile.jpg" width="180" style="border-radius:50%; border: 3px solid #00e5ff; box-shadow: 0 0 40px rgba(0,229,255,0.4), 0 0 80px rgba(0,229,255,0.2), 0 0 120px rgba(0,229,255,0.1);" alt="Raj Giri" />
+  <img src="https://github.com/royaldeveloper-rajgiri.png" width="150" width="180" style="border-radius:50%; border: 3px solid #00e5ff; box-shadow: 0 0 40px rgba(0,229,255,0.4), 0 0 80px rgba(0,229,255,0.2), 0 0 120px rgba(0,229,255,0.1);" alt="Raj Giri" />
 </div>
 
 <br>
