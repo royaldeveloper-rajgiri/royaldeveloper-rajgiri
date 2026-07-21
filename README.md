@@ -2,10 +2,10 @@
 readme_content = '''<div align="center">
 
 <!-- 3D Animated Waving Header with Cosmic Background -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:b347d9,100:ff6b9d&height=300&section=header&text=RAJ%20GIRI&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descSize=20&descAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:b347d9,100:ff6b9d&height=300&section=header&text=RAJ%20GIRI&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20Software%20Developer&descSize=18&descAlignY=55" />
 
 <!-- 3D Typing Effect -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=const+passion+%3D+'building+things+that+matter';while+(alive)+%7B+code()%3B+learn()%3B+grow()%3B+%7D;git+commit+-m+'Another+day%2C+another+feature';console.log('Hello%2C+World!+%F0%9F%8C%8D')" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Building+secure%2C+responsive+web+apps;PHP+%7C+MySQL+%7C+JavaScript+%7C+Bootstrap;Passionate+about+Web+Dev+%26+Cyber+Security;Open+Source+Contributor+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
 
 </div>
 
@@ -13,16 +13,16 @@ readme_content = '''<div align="center">
 
 <!-- 3D Floating Avatar with Glow Rings -->
 <div align="center">
-  <img src="https://github.com/royaldeveloper-rajgiri.png" width="150" style="border-radius:50%; border: 3px solid #00e5ff; box-shadow: 0 0 40px rgba(0,229,255,0.4), 0 0 80px rgba(0,229,255,0.2), 0 0 120px rgba(0,229,255,0.1);" />
+  <img src="https://royalgiri.fun/assets/img/profile.jpg" width="180" style="border-radius:50%; border: 3px solid #00e5ff; box-shadow: 0 0 40px rgba(0,229,255,0.4), 0 0 80px rgba(0,229,255,0.2), 0 0 120px rgba(0,229,255,0.1);" alt="Raj Giri" />
 </div>
 
 <br>
 
 <!-- Animated Stats Row with Dark Background -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Projects-50+-00e5ff?style=for-the-badge&logo=github&logoColor=white&labelColor=030308" />
-  <img src="https://img.shields.io/badge/Commits-5K+-b347d9?style=for-the-badge&logo=git&logoColor=white&labelColor=030308" />
-  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-ff6b9d?style=for-the-badge&logo=clockify&logoColor=white&labelColor=030308" />
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-00e5ff?style=for-the-badge&logo=code&logoColor=white&labelColor=030308" />
+  <img src="https://img.shields.io/badge/UI%2FUX-Designer-b347d9?style=for-the-badge&logo=figma&logoColor=white&labelColor=030308" />
+  <img src="https://img.shields.io/badge/Software-Developer-ff6b9d?style=for-the-badge&logo=terminal&logoColor=white&labelColor=030308" />
   <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4%EF%B8%8F-ffd700?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=030308" />
 </p>
 
@@ -34,11 +34,19 @@ readme_content = '''<div align="center">
 
 <div align="center">
 
-| 🔭 Currently Working On | 🌱 Learning | 💬 Ask Me About | 📍 Location |
+| 💻 Role | 🌐 Portfolio | 📍 Location | 🎓 Passion |
 |---|---|---|---|
-| **[Project Name]** — brief description | AI/ML Integration, Web3 | React, Node.js, System Design | Your City, Country |
+| Full Stack Web Developer | [royalgiri.fun](https://royalgiri.fun) | India | Web Development & Cyber Security |
 
 </div>
+
+- 💻 Full Stack Web Developer
+- 🎨 UI/UX Designer
+- 🌐 Portfolio: [https://royalgiri.fun](https://royalgiri.fun)
+- 📍 India
+- 🎓 Passionate about Web Development & Cyber Security
+- 📚 Continuously learning new technologies
+- ❤️ Open Source Contributor
 
 <br>
 
@@ -48,45 +56,22 @@ readme_content = '''<div align="center">
 
 <div align="center">
 
-### Languages
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" alt="Go" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
-
 ### Frontend
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue.js" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="Bootstrap" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS" />
 
-### Backend & Database
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
+### Backend
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45" alt="PHP" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" />
 
-### DevOps & Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
-
-### Other
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" height="40" alt="GraphQL" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40" alt="npm" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="40" height="40" alt="Yarn" />
+### Tools & Design
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45" alt="Figma" />
 
 </div>
 
@@ -94,18 +79,14 @@ readme_content = '''<div align="center">
 
 ---
 
-## 📱 My Apps
+## 📱 My Projects
 
 <div align="center">
 
-| App | Description | Downloads | Stars |
-|-----|-------------|-----------|-------|
-| 📊 **Analytics Pro** | Real-time data analytics with AI insights | 50K+ | ⭐ 1.2K |
-| 🤖 **AI Chat Bot** | Intelligent conversational AI powered by LLM | 100K+ | ⭐ 2.5K |
-| 🛒 **ShopEase** | Full-stack e-commerce with smart recommendations | 30K+ | ⭐ 800 |
-| 📝 **TaskMaster** | Productivity app with AI task prioritization | 75K+ | ⭐ 1.8K |
-| 🎮 **GameHub** | Multiplayer gaming platform with real-time sync | 200K+ | ⭐ 3.2K |
-| 🔐 **SecureVault** | End-to-end encrypted password manager | 60K+ | ⭐ 1.5K |
+| 🏨 **Hotel Management System** | 🔐 **Password Manager** | 🌐 **Portfolio Website** |
+|---|---|---|
+| Complete hotel booking & management system | Secure password storage with authentication | Personal portfolio showcasing projects & skills |
+| **PHP, MySQL, Bootstrap, JavaScript** | **Login, Encryption, Dashboard, User Mgmt** | **https://royalgiri.fun** |
 
 </div>
 
@@ -113,20 +94,35 @@ readme_content = '''<div align="center">
 
 ---
 
-## 🏆 Achievements & Certificates
+## 🏆 Certifications & Achievements
 
 <div align="center">
 
-### 🥇 Professional Certifications
+| 🏅 Certification | Issuer | Status |
+|---|---|---|
+| ✅ Google Certification | Google | ✅ Verified |
+| ✅ Microsoft Certification | Microsoft | ✅ Verified |
+| ✅ Cisco Certification | Cisco | ✅ Verified |
+| ✅ Infosys Springboard | Infosys | ✅ Verified |
+| ✅ FutureSkills Prime | NASSCOM | ✅ Verified |
+| ✅ IndiaAI | Government of India | ✅ Verified |
+| ✅ NPTEL | IIT | ✅ Verified |
+| ✅ Government Skill Development | Govt. of India | ✅ Verified |
 
-| Badge | Certificate | Issuer | Date | Status |
-|-------|-------------|--------|------|--------|
-| 🏆 | **AWS Certified Solutions Architect** | Amazon Web Services | Jan 2026 | ✅ Verified |
-| 🎓 | **Google Cloud Professional** | Google Cloud Platform | Mar 2026 | ✅ Verified |
-| 🥇 | **Hackathon Winner - Global AI** | DevPost / MLH | Nov 2025 | ✅ Verified |
-| 📜 | **Meta Frontend Developer** | Meta (Facebook) | Aug 2025 | ✅ Verified |
-| ⭐ | **GitHub Arctic Code Vault** | GitHub | Feb 2020 | ✅ Verified |
-| 🎯 | **Microsoft Azure Developer** | Microsoft | May 2026 | ✅ Verified |
+</div>
+
+<br>
+
+---
+
+## 💼 Services
+
+<div align="center">
+
+| 🌐 Website Development | 🖥️ PHP Web Applications | 📱 Responsive Design |
+|---|---|---|
+| 🎨 UI/UX Design | 🗄️ MySQL Database Design | 🐛 Bug Fixing |
+| 📄 Portfolio Websites | | |
 
 </div>
 
@@ -137,12 +133,12 @@ readme_content = '''<div align="center">
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajgiri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=030308&title_color=00e5ff&text_color=f5f5fa&icon_color=b347d9" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajgiri&layout=compact&theme=tokyonight&hide_border=true&bg_color=030308&title_color=00e5ff&text_color=f5f5fa&langs_count=8" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=royaldeveloper-rajgiri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=030308&title_color=00e5ff&text_color=f5f5fa&icon_color=b347d9" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=royaldeveloper-rajgiri&layout=compact&theme=tokyonight&hide_border=true&bg_color=030308&title_color=00e5ff&text_color=f5f5fa&langs_count=8" height="180" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajgiri&theme=tokyonight&hide_border=true&background=030308&stroke=00e5ff&ring=b347d9&fire=ff6b9d&currStreakNum=00e5ff&sideNums=f5f5fa&currStreakLabel=b347d9&sideLabels=f5f5fa&dates=7a7a8e" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=royaldeveloper-rajgiri&theme=tokyonight&hide_border=true&background=030308&stroke=00e5ff&ring=b347d9&fire=ff6b9d&currStreakNum=00e5ff&sideNums=f5f5fa&currStreakLabel=b347d9&sideLabels=f5f5fa&dates=7a7a8e" alt="GitHub Streak" />
 </div>
 
 <br>
@@ -152,23 +148,7 @@ readme_content = '''<div align="center">
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajgiri&bg_color=030308&color=00e5ff&line=b347d9&point=ff6b9d&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" alt="Contribution Graph" />
-</div>
-
-<br>
-
----
-
-## 🏅 Featured Projects
-
-<div align="center">
-
-| 🚀 Project | 📝 Description | 🛠️ Tech Stack | ⭐ Stars |
-|---|---|---|---|
-| **[Project Alpha](https://github.com/rajgiri/project-alpha)** | Real-time analytics dashboard with 3D visualization | React, Node.js, WebGL, Redis | ![Stars](https://img.shields.io/github/stars/rajgiri/project-alpha?style=social) |
-| **[Project Beta](https://github.com/rajgiri/project-beta)** | AI-powered content platform with LLM integration | Python, FastAPI, OpenAI, Vector DB | ![Stars](https://img.shields.io/github/stars/rajgiri/project-beta?style=social) |
-| **[Project Gamma](https://github.com/rajgiri/project-gamma)** | Full-stack e-commerce with multi-tenant architecture | Next.js, Stripe, PostgreSQL, Docker | ![Stars](https://img.shields.io/github/stars/rajgiri/project-gamma?style=social) |
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=royaldeveloper-rajgiri&bg_color=030308&color=00e5ff&line=b347d9&point=ff6b9d&area=true&hide_border=true&custom_title=Raj%20Giri%27s%20Contribution%20Graph" alt="Contribution Graph" />
 </div>
 
 <br>
@@ -178,23 +158,31 @@ readme_content = '''<div align="center">
 ## 🏅 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajgiri&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15&bg_color=030308" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=royaldeveloper-rajgiri&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15&bg_color=030308" alt="Trophies" />
 </div>
 
 <br>
 
 ---
 
-## 🌐 Connect With Me
+## 🌍 Connect with Me
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00e5ff?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=030308)](https://your-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=030308)](https://linkedin.com/in/rajgiri)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=030308)](https://twitter.com/rajgiri)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=030308)](mailto:rajgiri@example.com)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=030308)](https://dev.to/rajgiri)
+[![Website](https://img.shields.io/badge/Website-royalgiri.fun-00e5ff?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=030308)](https://royalgiri.fun)
+[![GitHub](https://img.shields.io/badge/GitHub-royaldeveloper--rajgiri-b347d9?style=for-the-badge&logo=github&logoColor=white&labelColor=030308)](https://github.com/royaldeveloper-rajgiri)
+[![Email](https://img.shields.io/badge/Email-rajgiri%40example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=030308)](mailto:rajgiri@example.com)
 
+</div>
+
+<br>
+
+---
+
+## 📈 Visitor Counter
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=royaldeveloper-rajgiri&color=00e5ff&style=for-the-badge&label=Profile%20Views" alt="Profile Views" />
 </div>
 
 <br>
@@ -204,19 +192,20 @@ readme_content = '''<div align="center">
 <div align="center">
 
 <!-- 3D Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b9d,50:b347d9,100:00e5ff&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b9d,50:b347d9,100:00e5ff&height=150&section=footer&text=Made%20with%20%E2%9D%A4%EF%B8%8F%20by%20Raj%20Giri&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=65" />
 
-<p style="font-size: 1.2rem;">
-  <b>Built with passion and lots of coffee ☕</b>
+<p style="font-size: 1.1rem;">
+  <b>⭐ Star my repositories if you like my work!</b>
 </p>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=rajgiri&color=00e5ff&style=for-the-badge&label=Profile%20Views" alt="Profile Views" />
-</p>
-
-<p><i>⭐ Star my repos if you find them useful!</i></p>
+<p><i>📄 Licensed under MIT License</i></p>
 
 </div>
 '''
 
 # Save to file
+with open('/mnt/agents/output/README.md', 'w', encoding='utf-8') as f:
+    f.write(readme_content)
+
+print("README.md saved successfully!")
+print(f"File size: {len(readme_content)} characters")
