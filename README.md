@@ -2,7 +2,7 @@
 readme_content = '''<div align="center">
 
 <!-- 3D Animated Waving Header with Cosmic Background -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:b347d9,100:ff6b9d&height=300&section=header&text=YOUR%20NAME&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descSize=20&descAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:b347d9,100:ff6b9d&height=300&section=header&text=RAJ%20GIRI&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descSize=20&descAlignY=55" />
 
 <!-- 3D Typing Effect -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=const+passion+%3D+'building+things+that+matter';while+(alive)+%7B+code()%3B+learn()%3B+grow()%3B+%7D;git+commit+-m+'Another+day%2C+another+feature';console.log('Hello%2C+World!+%F0%9F%8C%8D')" alt="Typing SVG" />
@@ -13,7 +13,7 @@ readme_content = '''<div align="center">
 
 <!-- 3D Floating Avatar with Glow Rings -->
 <div align="center">
-  <img src="https://github.com/royaldeveloper-rajgiri.png" width="150" style="border-radius:50%; border: 3px solid #00e5ff; box-shadow: 0 0 40px rgba(0,229,255,0.4), 0 0 80px rgba(0,229,255,0.2), 0 0 120px rgba(0,229,255,0.1);" />
+  <img src="https://github.com/rajgiri.png" width="150" style="border-radius:50%; border: 3px solid #00e5ff; box-shadow: 0 0 40px rgba(0,229,255,0.4), 0 0 80px rgba(0,229,255,0.2), 0 0 120px rgba(0,229,255,0.1);" />
 </div>
 
 <br>
@@ -137,12 +137,12 @@ readme_content = '''<div align="center">
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=030308&title_color=00e5ff&text_color=f5f5fa&icon_color=b347d9" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=030308&title_color=00e5ff&text_color=f5f5fa&langs_count=8" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rajgiri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=030308&title_color=00e5ff&text_color=f5f5fa&icon_color=b347d9" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajgiri&layout=compact&theme=tokyonight&hide_border=true&bg_color=030308&title_color=00e5ff&text_color=f5f5fa&langs_count=8" height="180" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=030308&stroke=00e5ff&ring=b347d9&fire=ff6b9d&currStreakNum=00e5ff&sideNums=f5f5fa&currStreakLabel=b347d9&sideLabels=f5f5fa&dates=7a7a8e" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajgiri&theme=tokyonight&hide_border=true&background=030308&stroke=00e5ff&ring=b347d9&fire=ff6b9d&currStreakNum=00e5ff&sideNums=f5f5fa&currStreakLabel=b347d9&sideLabels=f5f5fa&dates=7a7a8e" alt="GitHub Streak" />
 </div>
 
 <br>
@@ -152,7 +152,7 @@ readme_content = '''<div align="center">
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=030308&color=00e5ff&line=b347d9&point=ff6b9d&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajgiri&bg_color=030308&color=00e5ff&line=b347d9&point=ff6b9d&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" alt="Contribution Graph" />
 </div>
 
 <br>
@@ -165,9 +165,9 @@ readme_content = '''<div align="center">
 
 | 🚀 Project | 📝 Description | 🛠️ Tech Stack | ⭐ Stars |
 |---|---|---|---|
-| **[Project Alpha](https://github.com/YOUR_USERNAME/project-alpha)** | Real-time analytics dashboard with 3D visualization | React, Node.js, WebGL, Redis | ![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/project-alpha?style=social) |
-| **[Project Beta](https://github.com/YOUR_USERNAME/project-beta)** | AI-powered content platform with LLM integration | Python, FastAPI, OpenAI, Vector DB | ![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/project-beta?style=social) |
-| **[Project Gamma](https://github.com/YOUR_USERNAME/project-gamma)** | Full-stack e-commerce with multi-tenant architecture | Next.js, Stripe, PostgreSQL, Docker | ![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/project-gamma?style=social) |
+| **[Project Alpha](https://github.com/rajgiri/project-alpha)** | Real-time analytics dashboard with 3D visualization | React, Node.js, WebGL, Redis | ![Stars](https://img.shields.io/github/stars/rajgiri/project-alpha?style=social) |
+| **[Project Beta](https://github.com/rajgiri/project-beta)** | AI-powered content platform with LLM integration | Python, FastAPI, OpenAI, Vector DB | ![Stars](https://img.shields.io/github/stars/rajgiri/project-beta?style=social) |
+| **[Project Gamma](https://github.com/rajgiri/project-gamma)** | Full-stack e-commerce with multi-tenant architecture | Next.js, Stripe, PostgreSQL, Docker | ![Stars](https://img.shields.io/github/stars/rajgiri/project-gamma?style=social) |
 
 </div>
 
@@ -178,7 +178,7 @@ readme_content = '''<div align="center">
 ## 🏅 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15&bg_color=030308" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rajgiri&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15&bg_color=030308" alt="Trophies" />
 </div>
 
 <br>
@@ -190,10 +190,10 @@ readme_content = '''<div align="center">
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00e5ff?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=030308)](https://your-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=030308)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=030308)](https://twitter.com/YOUR_TWITTER)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=030308)](mailto:your.email@example.com)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=030308)](https://dev.to/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=030308)](https://linkedin.com/in/rajgiri)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=030308)](https://twitter.com/rajgiri)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=030308)](mailto:rajgiri@example.com)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=030308)](https://dev.to/rajgiri)
 
 </div>
 
@@ -211,10 +211,12 @@ readme_content = '''<div align="center">
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00e5ff&style=for-the-badge&label=Profile%20Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=rajgiri&color=00e5ff&style=for-the-badge&label=Profile%20Views" alt="Profile Views" />
 </p>
 
 <p><i>⭐ Star my repos if you find them useful!</i></p>
 
 </div>
 '''
+
+# Save to file
