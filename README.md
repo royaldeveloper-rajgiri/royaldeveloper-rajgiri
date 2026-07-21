@@ -1,5 +1,4 @@
-
-'''<div align="center">
+<div align="center">
 
 <!-- 3D Animated Waving Header with Cosmic Background -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:b347d9,100:ff6b9d&height=300&section=header&text=RAJ%20GIRI&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20Software%20Developer&descSize=18&descAlignY=55" />
@@ -201,11 +200,4 @@
 <p><i>📄 Licensed under MIT License</i></p>
 
 </div>
-'''
 
-# Save to file
-with open('/mnt/agents/output/README.md', 'w', encoding='utf-8') as f:
-    f.write(readme_content)
-
-print("README.md saved successfully!")
-print(f"File size: {len(readme_content)} characters")
