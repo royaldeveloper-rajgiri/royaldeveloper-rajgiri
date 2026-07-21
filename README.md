@@ -13,7 +13,7 @@ readme_content = '''<div align="center">
 
 <!-- 3D Floating Avatar with Glow Rings -->
 <div align="center">
-  <img src="https://github.com/YOUR_USERNAME.png" width="150" style="border-radius:50%; border: 3px solid #00e5ff; box-shadow: 0 0 40px rgba(0,229,255,0.4), 0 0 80px rgba(0,229,255,0.2), 0 0 120px rgba(0,229,255,0.1);" />
+  <img src="https://github.com/royaldeveloper-rajgiri.png" width="150" style="border-radius:50%; border: 3px solid #00e5ff; box-shadow: 0 0 40px rgba(0,229,255,0.4), 0 0 80px rgba(0,229,255,0.2), 0 0 120px rgba(0,229,255,0.1);" />
 </div>
 
 <br>
@@ -218,10 +218,3 @@ readme_content = '''<div align="center">
 
 </div>
 '''
-
-# Save to file
-with open('/mnt/agents/output/README.md', 'w', encoding='utf-8') as f:
-    f.write(readme_content)
-
-print("README.md saved successfully!")
-print(f"File size: {len(readme_content)} characters")
