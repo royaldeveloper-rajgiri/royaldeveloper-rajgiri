@@ -127,11 +127,8 @@ readme_content = '''<div align="center">
 | ✅ Network Defense Essentials | EC-Council | Cybersecurity |
 | ✅ Various University Courses | University of Michigan, UC San Diego, University of Maryland | Computer Science |
 | ✅ HackerRank Certifications | HackerRank | Programming |
-| ✅ Infosys Springboard | Infosys | Tech Skills |
 | ✅ FutureSkills Prime | NASSCOM | Digital Skills |
 | ✅ IndiaAI | Government of India | AI & Emerging Tech |
-| ✅ Government Skill Development | Govt. of India | Skill Development |
-| ✅ NPTEL | IIT | Engineering & Technology |
 
 </div>
 
