@@ -13,7 +13,7 @@
 
 <!-- 3D Floating Avatar with Glow Rings -->
 <div align="center">
-  <img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Froyalwebservice.in%2F&ved=0CBYQjRxqFwoTCIDc3_Cs5pUDFQAAAAAdAAAAABA4&opi=89978449" width="180" style="border-radius:50%; border: 3px solid #00e5ff; box-shadow: 0 0 40px rgba(0,229,255,0.4), 0 0 80px rgba(0,229,255,0.2), 0 0 120px rgba(0,229,255,0.1);" alt="Raj Giri" />
+  <img src="https://royalwebservice.in/uploads/team/team_1780435140_7806.png" width="180" style="border-radius:50%; border: 3px solid #00e5ff; box-shadow: 0 0 40px rgba(0,229,255,0.4), 0 0 80px rgba(0,229,255,0.2), 0 0 120px rgba(0,229,255,0.1);" alt="Raj Giri" />
 </div>
 
 <br>
