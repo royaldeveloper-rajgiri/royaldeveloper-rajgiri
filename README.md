@@ -195,7 +195,7 @@ readme_content = '''<div align="center">
 [![Email](https://img.shields.io/badge/Email-rg894710%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=030308)](mailto:rg894710@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Raj%20Giri-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=030308)](https://linkedin.com/in/rajgiri)
 [![Instagram](https://img.shields.io/badge/Instagram-Raj%20Giri-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=030308)](https://instagram.com/rajgiri)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Raj%20Giri-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=030308)](https://leetcode.com/rajgiri)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Raj%20Giri-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=030308)](https://leetcode.com/u/Rajgiri0001/)
 
 </div>
 
