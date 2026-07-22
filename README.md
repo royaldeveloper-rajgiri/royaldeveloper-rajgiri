@@ -111,24 +111,29 @@ readme_content = '''<div align="center">
 
 <div align="center">
 
-| 🏅 Certification | Issuer | Domain |
-|---|---|---|
-| ✅ Crash Course on Python | Google | Python Programming |
-| ✅ Foundations of User Experience (UX) Design | Google | UI/UX Design |
-| ✅ Foundations of Cybersecurity | Google | Cybersecurity |
-| ✅ Python 101 for Data Science | IBM Cognitive Class | Data Science |
-| ✅ Spark Fundamentals | IBM | Big Data |
-| ✅ Introduction to Containers, Kubernetes, and OpenShift | IBM | Cloud & DevOps |
-| ✅ Data Visualization with Python | IBM | Data Visualization |
-| ✅ Software Engineering | Duke University / Johns Hopkins | Software Engineering |
-| ✅ HTML, CSS, and JavaScript for Web Developers | Johns Hopkins University | Web Development |
-| ✅ Ethical Hacking Essentials | EC-Council | Cybersecurity |
-| ✅ Digital Forensics Essentials | EC-Council | Cybersecurity |
-| ✅ Network Defense Essentials | EC-Council | Cybersecurity |
-| ✅ Various University Courses | University of Michigan, UC San Diego, University of Maryland | Computer Science |
-| ✅ HackerRank Certifications | HackerRank | Programming |
-| ✅ FutureSkills Prime | NASSCOM | Digital Skills |
-| ✅ IndiaAI | Government of India | AI & Emerging Tech |
+### 🥇 Professional Certifications
+
+| 🏅 Certification | Issuer | Domain | 🔗 Verify |
+|---|---|---|---|
+| ✅ [Crash Course on Python](https://royalgiri.fun) | Google | Python Programming | [View Cert](https://royalgiri.fun) |
+| ✅ [Foundations of User Experience (UX) Design](https://royalgiri.fun) | Google | UI/UX Design | [View Cert](https://royalgiri.fun) |
+| ✅ [Foundations of Cybersecurity](https://royalgiri.fun) | Google | Cybersecurity | [View Cert](https://royalgiri.fun) |
+| ✅ [Python 101 for Data Science](https://royalgiri.fun) | IBM Cognitive Class | Data Science | [View Cert](https://royalgiri.fun) |
+| ✅ [Spark Fundamentals](https://royalgiri.fun) | IBM | Big Data | [View Cert](https://royalgiri.fun) |
+| ✅ [Introduction to Containers, Kubernetes, and OpenShift](https://royalgiri.fun) | IBM | Cloud & DevOps | [View Cert](https://royalgiri.fun) |
+| ✅ [Data Visualization with Python](https://royalgiri.fun) | IBM | Data Visualization | [View Cert](https://royalgiri.fun) |
+| ✅ [Software Engineering](https://royalgiri.fun) | Duke University / Johns Hopkins | Software Engineering | [View Cert](https://royalgiri.fun) |
+| ✅ [HTML, CSS, and JavaScript for Web Developers](https://royalgiri.fun) | Johns Hopkins University | Web Development | [View Cert](https://royalgiri.fun) |
+| ✅ [Ethical Hacking Essentials](https://royalgiri.fun) | EC-Council | Cybersecurity | [View Cert](https://royalgiri.fun) |
+| ✅ [Digital Forensics Essentials](https://royalgiri.fun) | EC-Council | Cybersecurity | [View Cert](https://royalgiri.fun) |
+| ✅ [Network Defense Essentials](https://royalgiri.fun) | EC-Council | Cybersecurity | [View Cert](https://royalgiri.fun) |
+| ✅ [University Courses](https://royalgiri.fun) | University of Michigan, UC San Diego, University of Maryland | Computer Science | [View Cert](https://royalgiri.fun) |
+| ✅ [HackerRank Certifications](https://royalgiri.fun) | HackerRank | Programming | [View Cert](https://royalgiri.fun) |
+| ✅ [Infosys Springboard](https://royalgiri.fun) | Infosys | Tech Skills | [View Cert](https://royalgiri.fun) |
+| ✅ [FutureSkills Prime](https://royalgiri.fun) | NASSCOM | Digital Skills | [View Cert](https://royalgiri.fun) |
+| ✅ [IndiaAI](https://royalgiri.fun) | Government of India | AI & Emerging Tech | [View Cert](https://royalgiri.fun) |
+| ✅ [Government Skill Development](https://royalgiri.fun) | Govt. of India | Skill Development | [View Cert](https://royalgiri.fun) |
+| ✅ [NPTEL](https://royalgiri.fun) | IIT | Engineering & Technology | [View Cert](https://royalgiri.fun) |
 
 </div>
 
@@ -193,8 +198,9 @@ readme_content = '''<div align="center">
 [![Website](https://img.shields.io/badge/Website-royalgiri.fun-00e5ff?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=030308)](https://royalgiri.fun)
 [![GitHub](https://img.shields.io/badge/GitHub-royaldeveloper--rajgiri-b347d9?style=for-the-badge&logo=github&logoColor=white&labelColor=030308)](https://github.com/royaldeveloper-rajgiri)
 [![Email](https://img.shields.io/badge/Email-rg894710%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=030308)](mailto:rg894710@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raj%20Giri-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=030308)](www.linkedin.com/in/royal-raj-giri)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Raj%20Giri-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=030308)](https://leetcode.com/u/Rajgiri0001/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raj%20Giri-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=030308)](https://linkedin.com/in/rajgiri)
+[![Instagram](https://img.shields.io/badge/Instagram-Raj%20Giri-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=030308)](https://instagram.com/rajgiri)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Raj%20Giri-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=030308)](https://leetcode.com/rajgiri)
 
 </div>
 
