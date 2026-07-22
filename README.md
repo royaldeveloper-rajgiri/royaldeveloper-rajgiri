@@ -1,10 +1,11 @@
-<div align="center">
+
+readme_content = '''<div align="center">
 
 <!-- 3D Animated Waving Header with Cosmic Background -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:b347d9,100:ff6b9d&height=300&section=header&text=RAJ%20GIRI&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20Software%20Developer&descSize=18&descAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:b347d9,100:ff6b9d&height=300&section=header&text=RAJ%20GIRI&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%7C%20Web%20Developer%20%7C%20UI%2FUX%20Designer&descSize=18&descAlignY=55" />
 
 <!-- 3D Typing Effect -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Building+secure%2C+responsive+web+apps;PHP+%7C+MySQL+%7C+JavaScript+%7C+Bootstrap;Passionate+about+Web+Dev+%26+Cyber+Security;Open+Source+Contributor+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Building+modern+websites+%26+software+solutions;Python+%7C+Java+%7C+HTML+%7C+CSS+%7C+JavaScript;Passionate+about+Cybersecurity+%26+Data+Science;Open+Source+Contributor+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
 
 </div>
 
@@ -12,16 +13,16 @@
 
 <!-- 3D Floating Avatar with Glow Rings -->
 <div align="center">
-  <img src="https://github.com/royaldeveloper-rajgiri.png" width="150" width="180" style="border-radius:50%; border: 3px solid #00e5ff; box-shadow: 0 0 40px rgba(0,229,255,0.4), 0 0 80px rgba(0,229,255,0.2), 0 0 120px rgba(0,229,255,0.1);" alt="Raj Giri" />
+  <img src="https://royalgiri.fun/assets/img/profile.jpg" width="180" style="border-radius:50%; border: 3px solid #00e5ff; box-shadow: 0 0 40px rgba(0,229,255,0.4), 0 0 80px rgba(0,229,255,0.2), 0 0 120px rgba(0,229,255,0.1);" alt="Raj Giri" />
 </div>
 
 <br>
 
 <!-- Animated Stats Row with Dark Background -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack-Developer-00e5ff?style=for-the-badge&logo=code&logoColor=white&labelColor=030308" />
-  <img src="https://img.shields.io/badge/UI%2FUX-Designer-b347d9?style=for-the-badge&logo=figma&logoColor=white&labelColor=030308" />
-  <img src="https://img.shields.io/badge/Software-Developer-ff6b9d?style=for-the-badge&logo=terminal&logoColor=white&labelColor=030308" />
+  <img src="https://img.shields.io/badge/Software-Developer-00e5ff?style=for-the-badge&logo=code&logoColor=white&labelColor=030308" />
+  <img src="https://img.shields.io/badge/Web-Developer-b347d9?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=030308" />
+  <img src="https://img.shields.io/badge/UI%2FUX-Designer-ff6b9d?style=for-the-badge&logo=figma&logoColor=white&labelColor=030308" />
   <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4%EF%B8%8F-ffd700?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=030308" />
 </p>
 
@@ -33,19 +34,20 @@
 
 <div align="center">
 
-| 💻 Role | 🌐 Portfolio | 📍 Location | 🎓 Passion |
+| 💻 Role | 🌐 Portfolio | 📧 Email | 🎓 Passion |
 |---|---|---|---|
-| Full Stack Web Developer | [royalgiri.fun](https://royalgiri.fun) | India | Web Development & Cyber Security |
+| Software Developer | [royalgiri.fun](https://royalgiri.fun) | [rg894710@gmail.com](mailto:rg894710@gmail.com) | Cybersecurity, Data Science, Cloud Tech |
 
 </div>
 
-- 💻 Full Stack Web Developer
-- 🎨 UI/UX Designer
-- 🌐 Portfolio: [https://royalgiri.fun](https://royalgiri.fun)
-- 📍 India
-- 🎓 Passionate about Web Development & Cyber Security
-- 📚 Continuously learning new technologies
-- ❤️ Open Source Contributor
+- 💻 **Software Developer** — Building modern websites & software solutions
+- 🌐 **Web Developer** — Creating custom web solutions & digital experiences
+- 🎨 **UI/UX Designer** — Designing user-friendly interfaces with trendy colors & typography
+- 🎓 **Continuous Learner** — Always exploring new technologies & certifications
+- 🔒 **Cybersecurity Enthusiast** — Ethical hacking, network defense & digital forensics
+- ☁️ **Cloud & Data** — Kubernetes, containers, data visualization & IoT
+- ❤️ **Open Source Contributor**
+- 📍 Based in **India**
 
 <br>
 
@@ -55,16 +57,27 @@
 
 <div align="center">
 
-### Frontend
+### Languages
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45" alt="PHP" />
+
+### Frontend
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="Bootstrap" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React" />
 
-### Backend
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45" alt="PHP" />
+### Backend & Database
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB" />
+
+### DevOps & Cloud
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45" height="45" alt="Kubernetes" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45" alt="AWS" />
 
 ### Tools & Design
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" />
@@ -78,14 +91,15 @@
 
 ---
 
-## 📱 My Projects
+## 💼 Services
 
 <div align="center">
 
-| 🏨 **Hotel Management System** | 🔐 **Password Manager** | 🌐 **Portfolio Website** |
+| 🌐 Web Development | 🎨 UI/UX Design | 📱 Responsive Design |
 |---|---|---|
-| Complete hotel booking & management system | Secure password storage with authentication | Personal portfolio showcasing projects & skills |
-| **PHP, MySQL, Bootstrap, JavaScript** | **Login, Encryption, Dashboard, User Mgmt** | **https://royalgiri.fun** |
+| 🖥️ Custom Web Solutions | 📊 Digital Marketing | 🤖 Automated Sales Solutions |
+| 🗄️ MySQL Database Design | 🐛 Bug Fixing | 📄 Portfolio Websites |
+| 💡 Technology Consulting | | |
 
 </div>
 
@@ -97,16 +111,27 @@
 
 <div align="center">
 
-| 🏅 Certification | Issuer | Status |
+| 🏅 Certification | Issuer | Domain |
 |---|---|---|
-| ✅ Google Certification | Google | ✅ Verified |
-| ✅ Microsoft Certification | Microsoft | ✅ Verified |
-| ✅ Cisco Certification | Cisco | ✅ Verified |
-| ✅ Infosys Springboard | Infosys | ✅ Verified |
-| ✅ FutureSkills Prime | NASSCOM | ✅ Verified |
-| ✅ IndiaAI | Government of India | ✅ Verified |
-| ✅ NPTEL | IIT | ✅ Verified |
-| ✅ Government Skill Development | Govt. of India | ✅ Verified |
+| ✅ Crash Course on Python | Google | Python Programming |
+| ✅ Foundations of User Experience (UX) Design | Google | UI/UX Design |
+| ✅ Foundations of Cybersecurity | Google | Cybersecurity |
+| ✅ Python 101 for Data Science | IBM Cognitive Class | Data Science |
+| ✅ Spark Fundamentals | IBM | Big Data |
+| ✅ Introduction to Containers, Kubernetes, and OpenShift | IBM | Cloud & DevOps |
+| ✅ Data Visualization with Python | IBM | Data Visualization |
+| ✅ Software Engineering | Duke University / Johns Hopkins | Software Engineering |
+| ✅ HTML, CSS, and JavaScript for Web Developers | Johns Hopkins University | Web Development |
+| ✅ Ethical Hacking Essentials | EC-Council | Cybersecurity |
+| ✅ Digital Forensics Essentials | EC-Council | Cybersecurity |
+| ✅ Network Defense Essentials | EC-Council | Cybersecurity |
+| ✅ Various University Courses | University of Michigan, UC San Diego, University of Maryland | Computer Science |
+| ✅ HackerRank Certifications | HackerRank | Programming |
+| ✅ Infosys Springboard | Infosys | Tech Skills |
+| ✅ FutureSkills Prime | NASSCOM | Digital Skills |
+| ✅ IndiaAI | Government of India | AI & Emerging Tech |
+| ✅ Government Skill Development | Govt. of India | Skill Development |
+| ✅ NPTEL | IIT | Engineering & Technology |
 
 </div>
 
@@ -114,14 +139,14 @@
 
 ---
 
-## 💼 Services
+## 🚀 Featured Projects
 
 <div align="center">
 
-| 🌐 Website Development | 🖥️ PHP Web Applications | 📱 Responsive Design |
+| 🏨 **Hotel Management System** | 🔐 **Password Manager** | 🌐 **Portfolio Website** |
 |---|---|---|
-| 🎨 UI/UX Design | 🗄️ MySQL Database Design | 🐛 Bug Fixing |
-| 📄 Portfolio Websites | | |
+| Complete hotel booking & management system | Secure password storage with authentication | Personal portfolio showcasing projects & skills |
+| **PHP, MySQL, Bootstrap, JavaScript** | **Login, Encryption, Dashboard, User Mgmt** | **https://royalgiri.fun** |
 
 </div>
 
@@ -170,7 +195,10 @@
 
 [![Website](https://img.shields.io/badge/Website-royalgiri.fun-00e5ff?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=030308)](https://royalgiri.fun)
 [![GitHub](https://img.shields.io/badge/GitHub-royaldeveloper--rajgiri-b347d9?style=for-the-badge&logo=github&logoColor=white&labelColor=030308)](https://github.com/royaldeveloper-rajgiri)
-[![Email](https://img.shields.io/badge/Email-rajgiri%40example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=030308)](mailto:rajgiri@example.com)
+[![Email](https://img.shields.io/badge/Email-rg894710%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=030308)](mailto:rg894710@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raj%20Giri-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=030308)](https://linkedin.com/in/rajgiri)
+[![Instagram](https://img.shields.io/badge/Instagram-Raj%20Giri-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=030308)](https://instagram.com/rajgiri)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Raj%20Giri-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=030308)](https://leetcode.com/rajgiri)
 
 </div>
 
@@ -200,4 +228,11 @@
 <p><i>📄 Licensed under MIT License</i></p>
 
 </div>
+'''
 
+# Save to file
+with open('/mnt/agents/output/README.md', 'w', encoding='utf-8') as f:
+    f.write(readme_content)
+
+print("README.md saved successfully!")
+print(f"File size: {len(readme_content)} characters")
