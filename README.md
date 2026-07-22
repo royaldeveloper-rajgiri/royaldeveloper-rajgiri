@@ -140,10 +140,10 @@ readme_content = '''<div align="center">
 
 <div align="center">
 
-| 🏨 **Hotel Management System** | 🔐 **Password Manager** | 🌐 **Portfolio Website** |
+| 🏨 **Hotel Management System** | 🏯 **Restaurant Management System*** | 🌐 **Portfolio Website** |
 |---|---|---|
-| Complete hotel booking & management system | Secure password storage with authentication | Personal portfolio showcasing projects & skills |
-| **PHP, MySQL, Bootstrap, JavaScript** | **Login, Encryption, Dashboard, User Mgmt** | **https://royalgiri.fun** |
+| Complete hotel booking & management system |  Restaurant Billing Management Software | Personal portfolio showcasing projects & skills |
+| **PHP, MySQL, Bootstrap, JavaScript** | **PHP, MySQL, Dashboard, User Mgmt** | **https://royalgiri.fun** |
 
 </div>
 
