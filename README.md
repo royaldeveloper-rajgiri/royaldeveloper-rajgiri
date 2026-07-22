@@ -193,8 +193,7 @@ readme_content = '''<div align="center">
 [![Website](https://img.shields.io/badge/Website-royalgiri.fun-00e5ff?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=030308)](https://royalgiri.fun)
 [![GitHub](https://img.shields.io/badge/GitHub-royaldeveloper--rajgiri-b347d9?style=for-the-badge&logo=github&logoColor=white&labelColor=030308)](https://github.com/royaldeveloper-rajgiri)
 [![Email](https://img.shields.io/badge/Email-rg894710%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=030308)](mailto:rg894710@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raj%20Giri-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=030308)](https://linkedin.com/in/rajgiri)
-[![Instagram](https://img.shields.io/badge/Instagram-Raj%20Giri-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=030308)](https://instagram.com/rajgiri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raj%20Giri-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=030308)](www.linkedin.com/in/royal-raj-giri)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Raj%20Giri-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=030308)](https://leetcode.com/u/Rajgiri0001/)
 
 </div>
