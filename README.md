@@ -1,5 +1,5 @@
 
-readme_content = '''<div align="center">
+<div align="center">
 
 <!-- 3D Animated Waving Header with Cosmic Background -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:b347d9,100:ff6b9d&height=300&section=header&text=RAJ%20GIRI&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%7C%20Web%20Developer%20%7C%20UI%2FUX%20Designer&descSize=18&descAlignY=55" />
@@ -13,7 +13,7 @@ readme_content = '''<div align="center">
 
 <!-- 3D Floating Avatar with Glow Rings -->
 <div align="center">
-  <img src="https://royalgiri.fun/assets/img/profile.jpg" width="180" style="border-radius:50%; border: 3px solid #00e5ff; box-shadow: 0 0 40px rgba(0,229,255,0.4), 0 0 80px rgba(0,229,255,0.2), 0 0 120px rgba(0,229,255,0.1);" alt="Raj Giri" />
+  <img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Froyalwebservice.in%2F&ved=0CBYQjRxqFwoTCIDc3_Cs5pUDFQAAAAAdAAAAABA4&opi=89978449" width="180" style="border-radius:50%; border: 3px solid #00e5ff; box-shadow: 0 0 40px rgba(0,229,255,0.4), 0 0 80px rgba(0,229,255,0.2), 0 0 120px rgba(0,229,255,0.1);" alt="Raj Giri" />
 </div>
 
 <br>
@@ -224,11 +224,3 @@ readme_content = '''<div align="center">
 <p><i>📄 Licensed under MIT License</i></p>
 
 </div>
-'''
-
-# Save to file
-with open('/mnt/agents/output/README.md', 'w', encoding='utf-8') as f:
-    f.write(readme_content)
-
-print("README.md saved successfully!")
-print(f"File size: {len(readme_content)} characters")
