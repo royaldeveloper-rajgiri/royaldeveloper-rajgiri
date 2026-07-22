@@ -129,11 +129,6 @@ readme_content = '''<div align="center">
 | ✅ [Network Defense Essentials](https://royalgiri.fun) | EC-Council | Cybersecurity | [View Cert](https://royalgiri.fun) |
 | ✅ [University Courses](https://royalgiri.fun) | University of Michigan, UC San Diego, University of Maryland | Computer Science | [View Cert](https://royalgiri.fun) |
 | ✅ [HackerRank Certifications](https://royalgiri.fun) | HackerRank | Programming | [View Cert](https://royalgiri.fun) |
-| ✅ [Infosys Springboard](https://royalgiri.fun) | Infosys | Tech Skills | [View Cert](https://royalgiri.fun) |
-| ✅ [FutureSkills Prime](https://royalgiri.fun) | NASSCOM | Digital Skills | [View Cert](https://royalgiri.fun) |
-| ✅ [IndiaAI](https://royalgiri.fun) | Government of India | AI & Emerging Tech | [View Cert](https://royalgiri.fun) |
-| ✅ [Government Skill Development](https://royalgiri.fun) | Govt. of India | Skill Development | [View Cert](https://royalgiri.fun) |
-| ✅ [NPTEL](https://royalgiri.fun) | IIT | Engineering & Technology | [View Cert](https://royalgiri.fun) |
 
 </div>
 
