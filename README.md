@@ -1,4 +1,4 @@
-c 
+
 <div align="center">
 
 <!-- 3D Animated Waving Header with Cosmic Background -->
